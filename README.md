@@ -3,7 +3,7 @@
 
 
 
-[RESULT](https://jsfiddle.net/StartBootstrap/yezxdwv3/)
+[RESULT](  )
 
 []()
 []()
